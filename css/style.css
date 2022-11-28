@@ -1,0 +1,18 @@
+/* Write style code here */
+
+header{
+    background-color: blue;
+}
+body{
+    background-color: whitesmoke;
+}
+#submit{
+    background-color: blue;
+    color: white;
+}
+.in{
+    border-top-style: hidden;
+    border-left-style: hidden;
+    border-right-style: hidden;
+    width: 1200px;
+}
